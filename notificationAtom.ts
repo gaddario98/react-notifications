@@ -1,5 +1,5 @@
 import { atomStateGenerator } from '@gaddario98/react-state';
-import { NotificationMessage } from './types';
+import type { NotificationMessage } from './types';
 
 const {
   atom: notificationAtom,
