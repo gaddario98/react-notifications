@@ -1,6 +1,6 @@
 {
   "name": "@gaddario98/react-notifications",
-  "version": "1.0.15",
+  "version": "1.0.17",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -27,7 +27,7 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "@gaddario98/react-state": "^1.0.13"
+    "@gaddario98/react-state": "^1.0.15"
   },
   "peerDependencies": {
     "react": ">=18.0.0 <20.0.0"
